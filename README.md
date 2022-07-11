@@ -1,5 +1,11 @@
 # SW-Competency-Aug-Sept-2022
 
+You also refer my bit manipulation code repositories for quick overview of Bit operation which is way faster than
+normal mathematical operation.
+Link for URL
+https://github.com/abmishra1234/Bit-Manipulation
+
+
 This repository is primarily build for senior folks, who are good at programming at times but
 now feeling rusty and they need some brushup to take the challenge with the current world.
 
